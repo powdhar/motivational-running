@@ -54,6 +54,7 @@ button {
     #text-container h1 {
         margin-top: 40px;
         font-size: 16px;
+        font-weight: 600;
         width: 40ch;
         margin-bottom: 40px;
     }
