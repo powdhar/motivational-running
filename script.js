@@ -155,7 +155,7 @@ const quotes =
 ]
 
 const images = 
-    ['images/image001.jpg','images/image002.jpg', 'images/image003.jpg','images/image004.jpg','images/image005.jpg', 'images/image006.jpg', 'images/image007.jpg', 'images/image008.jpg']
+    ['images/image001.jpg','images/image002.jpg', 'images/image003.jpg','images/image004.jpg','images/image005.jpg', 'images/image006.jpg', 'images/image007.jpg', 'images/image008.jpg', 'images/image009.jpg']
 
 function showQuotes () {
     let text = document.getElementById('text');
